@@ -167,14 +167,7 @@ python3 tests/python/frontend/onnx/witin/wtm2101/precision/XXXX.py
 
 （2） 和I/O 板：WTM2101运行需要的电源、以及应用I/O接口等.
 
-![image-20240806175807764](https://github.com/user-attachments/assets/f1818122-424e-47bb-a261-ca84eb24ce9c)
 
-
-核心板示意图
-![image-20240806175953745](https://github.com/user-attachments/assets/df1f9bbc-1a00-4309-b2e2-6c4dfa463e93)
-
-
- WTMDK2101-X3 I/O 板示意图
 
 ##### 2，训练数据集
 
